@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for prioritizing original news cover photos, falling back to dynamic Google Image search, limiting radar to the top 15 newest breaking stories in English, and providing 1-click Google Image alternative search in editor.",
+  "updatedAt": "2026-10-13T07:03:08.838581671Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

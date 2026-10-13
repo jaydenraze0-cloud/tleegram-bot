@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana penyederhanaan antarmuka FrontlineWire: mengubah alur kerja menjadi Mode Bertahap Sederhana (Step 1: Pilih Berita, Step 2: Desain Kartu, Step 3: Siaran), menghapus tombol kontrol dan timer yang membingungkan, serta menyediakan Satu Saklar Master ON/OFF tunggal di header atas untuk mengendalikan seluruh proses secara tenang dan teratur.",
+  "updatedAt": "2026-10-13T08:25:45.765885203Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix FrontlineWire - Automated Telegram War \u0026 Geopolitics News Broadcaster",
+  "description": "Automated conflict intelligence hub that ingests breaking war, geopolitical, and airstrike updates from RSS and OSINT sources, synthesizes AI-powered wire alerts with Gemini 3.8 Flash, and automatically broadcasts to Telegram groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "autoPostEnabled": true,
+  "intervalMinutes": 1,
+  "botToken": "",
+  "chatId": "",
+  "handle": "@Stark-News-x",
+  "hashtag": "#StarkNews #BreakingNews",
+  "toneStyle": "stark_photo_template",
+  "minimumUrgency": "ALL",
+  "includeHashtags": true,
+  "includeSourceLink": true,
+  "postWithImage": true,
+  "lastRunAt": null,
+  "nextRunAt": null,
+  "totalPosted": 0,
+  "logoDataUrl": ""
+}

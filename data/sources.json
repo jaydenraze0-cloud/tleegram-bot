@@ -1,0 +1,74 @@
+[
+  {
+    "id": "src-1",
+    "name": "Ukraine & Russia Frontline Wire",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=(Ukraine+OR+Russia+OR+Putin+OR+Zelensky)+AND+(war+OR+frontline+OR+strike+OR+missile+OR+kursk)&hl=en-US&gl=US&ceid=US:en",
+    "category": "Ukraine & Russia",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-2",
+    "name": "Middle East & Gaza Conflict Wire",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=(Middle+East+OR+Gaza+OR+Israel+OR+Lebanon+OR+Hezbollah)+AND+(strike+OR+war+OR+idf+OR+airstrike)&hl=en-US&gl=US&ceid=US:en",
+    "category": "Middle East & Yemen",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-3",
+    "name": "Yemen & Red Sea Standoff (Houthis)",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=(Yemen+OR+Houthi+OR+Houthis+OR+\"Red+Sea\")+AND+(missile+OR+strike+OR+ship+OR+drone)&hl=en-US&gl=US&ceid=US:en",
+    "category": "Middle East & Yemen",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-4",
+    "name": "Iran & Tehran Geopolitical Watch",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=(Iran+OR+Tehran+OR+IRGC)+AND+(missile+OR+nuclear+OR+military+OR+drone+OR+strike)&hl=en-US&gl=US&ceid=US:en",
+    "category": "Iran & Geopolitics",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-5",
+    "name": "US War, Trump & Pentagon Wire",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=(Trump+OR+Pentagon+OR+\"US+military\"+OR+CENTCOM)+AND+(war+OR+strike+OR+conflict+OR+defense+OR+putin)&hl=en-US&gl=US&ceid=US:en",
+    "category": "US War & Trump",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-6",
+    "name": "The War Zone (TWZ Frontline Defense)",
+    "type": "rss",
+    "url": "https://www.twz.com/feed",
+    "category": "War & Conflict",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-7",
+    "name": "FDD Long War Journal (Mideast & Yemen)",
+    "type": "rss",
+    "url": "https://www.longwarjournal.org/feed",
+    "category": "War & Conflict",
+    "enabled": true,
+    "isDefault": true
+  },
+  {
+    "id": "src-custom-1791880598449",
+    "name": "stark",
+    "url": "https://rss.app/feeds/3bVPoVJxvmldVPEM.xml",
+    "category": "War & Conflict",
+    "type": "rss",
+    "enabled": true,
+    "isDefault": false
+  }
+]
